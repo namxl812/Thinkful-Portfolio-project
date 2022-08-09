@@ -21,8 +21,9 @@ p {
 a:link { color:red; uppercasecase; }
 a:visited { color: purple; }
 
-/* this centers the image using margin property*/
-img {
-  margin: auto;
+/* this centers the image */
+.center {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
