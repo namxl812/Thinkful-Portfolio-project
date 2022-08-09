@@ -6,22 +6,29 @@ h1 {
   font-family: Ariel;
   padding: 10px;
   font-size: 64px;
-  color: red;
+  color: black;
   text-align: center;
   margin: 0;
   height: -2;  
 }
+
+h2 {
+  font-family: 'Times New Roman';
+  text-align: center;
+}
+
  /* this is for the sentances */
 p {
   font-family: 'Times New Roman';
   font-size: 22px;
   color: #51473b;
+  text-align: center;
 }
 /* this styles the links  */
 a:link { color:red; uppercasecase; }
 a:visited { color: purple; }
 
-/* this centers the image */
+/* this centers the image using margin */
 .center {
   display: block;
   margin-left: auto;
