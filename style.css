@@ -23,10 +23,3 @@ p {
 /* this styles the links  */
 a:link { color:red; uppercasecase; }
 a:visited { color: purple; }
-
-/* this centers the image using margin */
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
