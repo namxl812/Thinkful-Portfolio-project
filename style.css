@@ -12,18 +12,14 @@ h1 {
   height: -2;  
 }
 
-h2 {
-  font-family: 'Times New Roman';
-  text-align: center;
-}
 
  /* this is for the sentances */
 p {
   font-family: 'Times New Roman';
   font-size: 22px;
   color: #51473b;
-  text-align: center;
 }
+
 /* this styles the links  */
 a:link { color:red; uppercasecase; }
 a:visited { color: purple; }
@@ -33,5 +29,4 @@ a:visited { color: purple; }
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
 }
